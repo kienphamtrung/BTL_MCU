@@ -1,0 +1,13 @@
+led_disp.c:10:6:toggleREDS	8	static
+led_disp.c:16:6:toggleGREENs	8	static
+led_disp.c:22:6:toggleYELLOWs	8	static
+led_disp.c:28:6:reset	8	static
+led_disp.c:35:6:enableRED_WEST	8	static
+led_disp.c:39:6:enableYELLOW_WEST	8	static
+led_disp.c:43:6:enableGREEN_WEST	8	static
+led_disp.c:48:6:enableRED_NORTH	8	static
+led_disp.c:52:6:enableGREEN_NORTH	8	static
+led_disp.c:56:6:enableYELLOW_NORTH	8	static
+led_disp.c:60:6:PEDESTRIAN_RED	8	static
+led_disp.c:65:6:PEDESTRIAN_GREEN	8	static
+led_disp.c:70:6:OFF_PEDESTRIAN	8	static
